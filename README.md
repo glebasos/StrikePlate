@@ -10,7 +10,7 @@
 | `otvetPlanka_25mmL_12mmW_2mmBorder.stl` | 50 мм | 12 мм | 2 мм |
 | `otvetPlanka_32mmL_10mmW_2mmBorder.stl` | 64 мм | 10 мм | 2 мм |
 | `otvetPlanka_32mmL_12mmW_2mmBorder.stl` | 64 мм | 12 мм | 2 мм |
-| `otvetPlanka_default.stl` | 50 мм | 7 мм | 1 ммm |
+| `otvetPlanka_default.stl` | 50 мм | 7 мм | 1 мм |
 | `otvetPlanka_default_2mm.stl` | 50 мм | 7 мм | 2 мм |
 
 ## Применение
